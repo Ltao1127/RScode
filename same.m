@@ -1,4 +1,4 @@
-%求译码正确个数
+  %求译码正确个�?
 function a=same(msg,new_msg)
 teap=0;
 [N,M]=size(msg)
